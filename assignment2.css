@@ -1,0 +1,27 @@
+body{
+    background-color: white;
+}
+h1{
+    font-size: 18px;
+}
+#first{
+    color: green;
+    font-size: 14px;
+    padding: 10px;
+    border:8px double darkslategrey ;
+    margin:20px 100px;
+}
+#second{
+    color: red;
+    font-size: 14px;
+    padding: 10px;
+    border: 8px double palevioletred;
+    margin: 20px 100px;
+}
+#third{
+    color: blue;
+    font-size: 14px;
+    padding: 10px;
+    border: 8px double blueviolet;
+    margin:20px 100px;
+}
